@@ -1,12 +1,12 @@
 
-## 👨‍💻 Sobre mí
+##  Sobre mí
 
 Desarrollador web con enfoque práctico y pasión por crear soluciones útiles que impacten de forma real
 
 
 
 ---
-## 💡 Formación
+##  Formación
 
 **ciberseguridad**
 
@@ -16,7 +16,7 @@ Desarrollador web con enfoque práctico y pasión por crear soluciones útiles q
 
 ---
 
-## 🧰 Tecnologías que manejo
+##  Tecnologías que manejo
 
 - **Frontend:** HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, Radix UI  
 - **Backend:** Java, Node.js (en formación)  
@@ -26,25 +26,25 @@ Desarrollador web con enfoque práctico y pasión por crear soluciones útiles q
 
 ---
 
-## 📌 Objetivo Profesional
+##  Objetivo Profesional
 
 Actualmente estoy disponible para:
 
-- 🌟 Prácticas profesionales
-- 🚀 Proyectos freelance
-- 🕓 Posiciones de medio tiempo
+-  Prácticas profesionales
+-  Proyectos freelance
+-  Posiciones de medio tiempo
 
 
 ---
 
 
 
-## 🚀 Proyectos
+##  Proyectos
 
-- 🎮 Juegos educativos interactivos
-- 📲 Páginas web integradas con WhatsApp
-- 🌐 Herramientas de gestión y aprendizaje adaptadas al nivel del usuario
-- 🧾 Sistemas POS y plataformas para restaurantes
+-  Juegos educativos interactivos
+-  Páginas web integradas con WhatsApp
+-  Herramientas de gestión y aprendizaje adaptadas al nivel del usuario
+-  Sistemas POS y plataformas para restaurantes
 
 ## GitHub stats
 
